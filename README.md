@@ -6,11 +6,11 @@ This repository contains a Power BI Dashboard file (`.pbix`) focused on **HR Ana
 
 ## 🔍 Dashboard Highlights
 
-- **Total Employees**: 1470
-- **Attrition**: 237
-- **Attrition Rate**: 16.12%
-- **Active Employees**: 1233
-- **Average Age**: 37
+- **Total Employees**
+- **Attrition**
+- **Attrition Rate**
+- **Active Employees**
+- **Average Age**
 
 ---
 
